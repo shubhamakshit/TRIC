@@ -25,7 +25,8 @@ You must write the reaction and then the answer as denoted by the first example.
 
 9. $Zn + 2HCl \rightarrow$
 
-10. $C_{6}H_{12}O_{6} + 6O_{2} + ADP + P_{i} \rightarrow$
+10. $C_{6}H_{12}O_{6} + 6O_{2} + ADP + P_{i} \rightarrow$ <br/>
+    ANSWER: **1** mol. of glucose reacts with **6** mol. of Oxygen and 1 mol. of ADP and P<sub>i</sub> each
 
 11. $NH_{3} + HCl + H_{2}O \rightarrow$
 
